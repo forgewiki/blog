@@ -8,5 +8,4 @@
 
 ## Updates
 
-* [7/10/22 Update](updates/7-10-22-update.md)
-* [7/1/22 Update](updates/7-1-22-update.md)
+* [10/8/22 Update](updates/10-8-22-update.md)
