@@ -4,10 +4,10 @@ layout: landing
 
 # Forge Wiki Blog
 
-## [Announcements](broken-reference)
+## Announcements
 
-[<mark style="color:blue;">**Welcome to Forge Wiki**</mark>](announcements/welcome-to-forge-wiki.md)
+[**Welcome to Forge Wiki**](announcements/welcome-to-forge-wiki.md)
 
-## [Updates](broken-reference)
+## Updates
 
-[<mark style="color:blue;">**10/8/22 Update**</mark>](updates/10-8-22-update.md)
+There are no updates at this time :D
